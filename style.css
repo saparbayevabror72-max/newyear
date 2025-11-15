@@ -6,7 +6,7 @@ body{
     height: 100vh;
     justify-content: center;
     font-family: cursive;
-    background-color: rgb(0, 162, 27);
+    background-color: rgb(0, 242, 255);
     overflow: hidden;
 }
 h2 {
@@ -23,7 +23,7 @@ h2 {
 }
 .count{
   margin: 30px;
-  background-color: black;
+  background-color: rgb(0, 53, 67);
   width: 100%;
   color: white;
   height: 120px;
